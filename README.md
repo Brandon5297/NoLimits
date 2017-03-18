@@ -1,9 +1,11 @@
 # nolimits
-nolimits is a emulator.
+nolimits is a java text editor.
 
 ## Goal
-To learn java as I progress through this project.
+* To create a efficient text editor for java.
+* Edit the text editor to cater for multiple programming languages.
 
 ## Noteable Features
+
 
 ## Credits
