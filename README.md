@@ -31,4 +31,3 @@ nolimits is a RuneScape emulator for the #317 protocol.
 * [Lare96](https://github.com/lare96)
 * [Graham](https://github.com/grahamedgecombe/)
 * [Major](https://github.com/Major-)
-* [Chadalen] (https://github.com/chadalen/)
